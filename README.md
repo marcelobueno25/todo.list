@@ -4,6 +4,13 @@ Uma aplicação simples de lista de tarefas desenvolvida com **React**, permitin
 
 > 🌐 Acesse o projeto online: [Todo List](https://vercel.com/marcelobueno25s-projects/todo-list)
 
+## 📸 Capturas de tela
+
+![Screenshot do jogo](./screenshot.png) <!-- Altere ou adicione uma imagem do jogo se desejar -->
+
+---
+
+
 ## ✨ Funcionalidades
 
 - ✅ Adicionar tarefas
